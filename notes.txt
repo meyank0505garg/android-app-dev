@@ -1,0 +1,31 @@
+collections usually contans items/objects in certain order of same type
+
+
+-listof if immutable 
+mutableListOf is mutable by name_of_list.add()
+.remove()
+.size
+.get() or []
+.indexOf()
+.filter  
+
+-setOf() -> does not change order not like c++ set
+mutableSetOf() -> same like above
+
+- mapOf()
+mutableMapOf()
+
+
+https://medium.com/mobile-app-development-publication/kotlin-collection-functions-cheat-sheet-975371a96c4b
+
+-an interface specifies what a class can implement regardless of inheritance status e.g onclick() -> a function without body that will be implemented at class level 
+
+-Generic types is flexible class or interface that is parametrized over types
+
+
+
+
+
+
+
+
